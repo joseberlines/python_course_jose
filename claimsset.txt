@@ -1,0 +1,93 @@
+What is claimed is: 1. 1. A photovoltaic device having a substrate configuration, comprising:
+a substrate,
+said substrate being transparent or opaque,
+a metal electrode layer,
+a transparent conductor layer,
+an absorber layer,
+said absorber layer comprises a Group II-VI semiconductor compound,
+a window layer, and
+an interface layer, wherein
+the interface layer is disposed between the metal electrode layer and the absorber layer such that an ohmic contact is created between the metal electrode layer and the absorber layer.
+2. 2. A photovoltaic device according claim 1, wherein:
+said absorber layer comprises a CdTe semiconductor.
+3. 3. A photovoltaic device according claim 2, wherein:
+said window layer comprises a CdS semiconductor.
+4. 4. A photovoltaic device as claimed in claim 1, wherein:
+the interface layer comprises a material selected from the group consisting of nanoparticles, nanoparticles that are sintered and a thin film.
+5. 5. A photovoltaic device as claimed in claim 4, wherein:
+the nanoparticles, nanoparticles that are sintered and a thin film each independently comprise a material selected from the group consisting of Group II-IV compounds, Group IV-VI compounds, Group IV compounds, Group III-V compounds and Group I-III-VI compounds.
+6. 6. A photovoltaic device as claimed in claim 5, wherein:
+the nanoparticles, nanoparticles that are sintered and a thin film independently comprise a material selected from the group consisting of CuxTe where 1≦x≦2, ZnTe, p doped ZnTe, CdxTey where x≠y, Cu doped CdTe, CdZnTe, Sb2Te3, Bi2Te3 and Te metal.
+7. 7. A photovoltaic device as claimed in claim 6, wherein:
+the nanoparticles, nanoparticles that are sintered and a thin film independently comprise a material selected from the group consisting of CdxTey where x>y and Cu doped ZnTe.
+8. 8. A photovoltaic device as claimed in claim 1, wherein:
+the interface layer comprises a plurality of layers.
+9. 9. A photovoltaic device as claimed in claim 1, wherein:
+the interface layer comprises a plurality of layers,
+said plurality of layers comprising a first layer comprising p-doped ZnTe nanoparticles,
+and a second layer comprising ZnTe nanoparticles.
+10. 10. A photovoltaic device as claimed in claim 9, wherein:
+the interface layer further comprises a third layer comprising Te metal nanoparticles disposed between the second layer comprising ZnTe nanoparticles and the absorber layer.
+11. 11. A photovoltaic device as claimed in claim 1, wherein:
+said interface layer comprises a plurality of layers,
+said plurality of layers comprises a first layer comprising CuxTe where 1≦x≦2 nanoparticles,
+and a second layer comprising ZnTe nanoparticles.
+12. 12. A photovoltaic device as claimed in claim 11, wherein:
+the interface layer further comprises a third layer disposed between the second layer and the absorber layer,
+said third layer comprising a material selected from the group consisting of Te metal nanoparticles, CdxTey where x≠y nanoparticles and CdZnTe nanoparticles.
+13. 13. A photovoltaic device as claimed in claim 1, wherein:
+the interface layer comprises at least three layers, wherein
+a first interface layer comprises Cd1−xZnxTe nanoparticles where x=0,
+a second interface layer comprises Cd1−xZnxTe nanoparticles that are sintered where x≠0, and
+a third interface layer in between the first and second interface layer said layer comprising Cd1−xZnxTe nanoparticles that are sintered where 0≦x≦1.
+14. 14. A photovoltaic device as claimed in claim 1, wherein:
+the interface layer comprises a plurality of layers,
+said plurality of layers comprises a first layer comprising p-doped ZnTe nanoparticles that are sintered,
+and a second layer comprising ZnTe nanoparticles that are sintered.
+15. 15. A photovoltaic device as claimed in claim 14, wherein:
+the interface layer further comprises a third layer comprising Te metal nanoparticles that are sintered disposed between the second layer comprising ZnTe nanoparticles that are sintered and the absorber layer.
+16. 16. A photovoltaic device as claimed in claim 1, wherein:
+said interface layer comprises a plurality of layers,
+said plurality of layers comprises a first layer comprising a CuxTe where 1≦x≦2 nanoparticles that are sintered, and
+a second layer comprising ZnTe nanoparticles that are sintered.
+17. 17. A photovoltaic device as claimed in claim 16, wherein:
+the interface layer further comprises a third layer disposed between the second layer and the absorber layer,
+said third layer comprises a material selected from the group consisting of Te metal nanoparticles that are sintered, CdxTey where x≠y nanoparticles that are sintered and CdZnTe nanoparticles that are sintered.
+18. 18. A photovoltaic device as claimed in claim 1, wherein:
+the interface layer comprises at least three layers, wherein
+a first interface layer comprises Cd1−xZnxTe nanoparticles that are sintered where x=0,
+a second interface layer comprises Cd1−xZnxTe nanoparticles that are sintered where x≠0, and
+a third interface layer in between the first and second interface layer said layer comprising Cd1−xZnxTe nanoparticles that are sintered where 0≦x≦1.
+19. 19. A photovoltaic device as claimed in claim 1, wherein:
+the interface layer comprises a plurality of layers,
+said plurality of layers comprises a first layer comprising a p-doped ZnTe thin film, and
+a second layer comprising ZnTe thin film.
+20. 20. A photovoltaic device as claimed in claim 19, wherein:
+the interface layer further comprises a third layer comprising a Te metal thin film disposed between the second layer comprising a ZnTe thin film and the absorber layer.
+21. 21. A photovoltaic device as claimed in claim 1, wherein:
+said interface layer comprises a plurality of layers,
+said plurality of layers comprises a first layer comprising a CuxTe where 1≦x≦2 thin film, and
+a second layer comprising a ZnTe thin film.
+22. 22. A photovoltaic device as claimed in claim 21, wherein:
+the interface layer further comprises a third layer disposed between the second layer and the absorber layer,
+said third layer comprises a material selected from the group consisting of a Te metal thin film, a CdxTey where x≠y thin film, and a CdZnTe thin film.
+23. 23. A photovoltaic device as claimed in claim 1, wherein:
+the interface layer comprises at least three layers, wherein
+a first interface layer comprises a Cd1−xZnxTe thin film where x=0,
+a second interface layer comprises a Cd1−xZnxTe thin film where x≠0, and
+a third interface layer in between the first and second interface layer,
+said layer comprising a Cd1−xZnxTe thin film where 0≦x≦1.
+24. 24. A photovoltaic device having a superstrate configuration, comprising:
+a substrate,
+said substrate being transparent,
+a metal electrode layer,
+a transparent conductor layer,
+an absorber layer,
+said absorber layer comprising a Group II-VI semiconductor compound,
+a window layer, and
+an interface layer comprising nanoparticles or nanoparticles that are sintered, and
+the interface layer is disposed between the metal electrode layer and the absorber layer such that an ohmic contact is created between the metal electrode layer and the absorber layer.
+25. 25. A photovoltaic device as claimed in claim 24, wherein:
+the nanoparticles or nanoparticles that are sintered independently comprise a material selected from the group consisting of CuxTe where 1≦x≦2, ZnTe, p doped ZnTe, CdxTey where x≠y, Cu doped CdTe, CdZnTe, Sb2Te3, Bi2Te3 and Te metal.
+
+
